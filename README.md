@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **Server side**
+- 🔭 I’m currently working on **An AI Application**
 
-- 🌱 I’m currently learning **Node-js**
+- 🌱 I’m currently learning **Typescript and Sql**
 
 - 💬 Ask me about **react, node, javascript**
 
