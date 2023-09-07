@@ -1,4 +1,5 @@
 [![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1669911252187/UzpcRIB-_.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Nazmus Sakib</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -39,8 +40,8 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="ns-sheam" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ns-sheam&show_icons=true&locale=en&" alt="ns-sheam" /></p>
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="ns-sheam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ns-sheam&show_icons=true&locale=en&" alt="ns-sheam" />
 <br />
 
 ## :chart_with_upwards_trend: Current Stats
