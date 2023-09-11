@@ -8,7 +8,7 @@
 
 ## :eyes: Current overview
 
-- 🔭 I’m currently working on **An AI Application**
+- 🔭 I’m currently working on **AI Application**
 
 - 🌱 I’m currently learning **Typescript and Sql**
 
