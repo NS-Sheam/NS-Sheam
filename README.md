@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1669911252187/UzpcRIB-_.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://ns-sheam-portfolio.netlify.app/)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ns-sheam-portfolio.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Nazmus Sakib</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
