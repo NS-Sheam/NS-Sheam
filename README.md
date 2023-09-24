@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Typescript and Sql**
 
-- 💬 Ask me about **react, node, javascript**
+- 💬 Ask me about **react, node, javascript, database**
 
 ## :mailbox: Reach me out
 <br />
