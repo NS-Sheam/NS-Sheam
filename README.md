@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ns-sheam-portfolio.netlify.app/)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nazmus-sakib.me/)
 
 <h1 align="center">Hey 👋, I'm Nazmus Sakib </h1>
 <h3 align="center">A MERN Stack developer from Bangladesh</h3>
@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **Typescript and Sql**
 
 - 💬 Ask me about **react, node, javascript, database**
+- 👉🏼 My [**`portfolio`**](https://nazmus-sakib.me/)
 
 ## :mailbox: Reach me out
 <br />
