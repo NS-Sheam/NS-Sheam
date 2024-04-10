@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI Application**
 
-- 🌱 I’m currently learning **Typescript and Sql**
+- 🌱 I’m currently learning **Sql**
 
 - 💬 Ask me about **react, node, javascript, database**
 - 👉🏼 My [**`portfolio`**](https://nazmus-sakib.me/)
