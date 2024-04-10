@@ -7,7 +7,7 @@
 
 ## :eyes: Current overview
 
-- 🔭 I’m currently working on **AI Application**
+- 🔭 I’m currently working on **Multivendor E-commerce Website**
 
 - 🌱 I’m currently learning **Sql**
 
