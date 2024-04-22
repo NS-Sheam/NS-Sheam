@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Sql**
 
 - 💬 Ask me about **react, node, javascript, database**
-- 👉🏼 My [**`portfolio`**](https://nazmus-sakib.me/)
+- 👉🏼 Explore my [**`portfolio`**](https://nazmus-sakib.me/)
 
 ## :mailbox: Reach me out
 <br />
