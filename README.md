@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Sql**
 
-- 💬 Ask me about **react, node, javascript, database**
+- 💬 Ask me about **Javascript, React.js, Node.js, Database**
 - 👉🏼 Explore my [**`portfolio`**](https://nazmus-sakib.me/)
 
 ## :mailbox: Reach me out
