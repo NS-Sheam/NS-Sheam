@@ -49,9 +49,9 @@
 <br/>
 
 <div>
-  <img align="left" width="400px" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&theme=transparent&disable_animations=false&title_color=bfd200&text_color=ffffff&icon_color=ffffff" alt="ns-sheam" />
+  <img align="left" width="400px" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&disable_animations=false&title_color=bfd200&text_color=ffffff&icon_color=ffffff" alt="ns-sheam" />
 <!--<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="ns-sheam" /> -->
-<img align="center" width="500px" height="300" src="https://github-readme-stats.vercel.app/api?username=ns-sheam&show_icons=true&locale=en&theme=transparent&rank_icon=github&disable_animations=false&title_color=bfd200&text_color=ffffff&border_radius=12.5&icon_color=ffffff&ring_color=bfd200" alt="ns-sheam" />
+<img align="center" width="500px" height="300" src="https://github-readme-stats.vercel.app/api?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&rank_icon=github&disable_animations=false&title_color=bfd200&text_color=ffffff&border_radius=12.5&icon_color=ffffff&ring_color=bfd200" alt="ns-sheam" />
 </div>
 <br />
 
