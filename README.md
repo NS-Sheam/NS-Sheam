@@ -11,7 +11,7 @@
 
 ## 👀 Current Overview
 
-- 🔭 I’m currently working on **Multivendor E-commerce Website**
+- 🔭 I’m currently working on **E-commerce Website**
 - 🌱 I’m currently learning **SQL**
 - 💬 Ask me about **JavaScript, React.js, Node.js, Database**
 - 👉🏼 Explore my [**portfolio**](https://nazmus-sakib.me/)
