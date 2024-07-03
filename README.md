@@ -96,3 +96,13 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+
+## 📰 Recent Blogs
+<p align="left">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/`"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/1" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/2" alt="Recent Article 2"> 
+</p>
+
+
+
