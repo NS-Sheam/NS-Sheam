@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nazmus-sakib.me/)
 
-<h1 align="center">Bonjour 👋, What's up <br/> This is Nazmus Sakib</h1>
+<h1 align="center">Bonjour 👋, <br/> This is Nazmus Sakib</h1>
 <h3 align="center">Full Stack Web Developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
