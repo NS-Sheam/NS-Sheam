@@ -104,4 +104,4 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/2" alt="Recent Article 2"> 
 </p>
 
-
+![snake gif](https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg)
