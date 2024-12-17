@@ -1,7 +1,13 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nazmussakib.dev/)
 
+<!--
 <h1 align="center">Hi 👋, <br/> I am Nazmus Sakib</h1>
 <h3 align="center">Full Stack Web Developer from Bangladesh</h3>
+-->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Bonjour!+👋;Bienvenue+to+my+GitHub!;I'm+Nazmus+Sakib!;A+Web+Developer!">
+</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -105,3 +111,18 @@
 </p>
 
 ![snake gif](https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Thanks+for+Visiting!+🙏;Let's+Connect;And+Collaborate!;Follow+Me+on+GitHub!;Connect+on+LinkedIn!">
+</h1>
+
+<p align="center">
+  If you enjoyed exploring my GitHub, don't forget to ⭐️ my repositories.<br />
+  Let's connect and grow together!
+</p>
+
+<p align="center">
+  💼 <a href="https://linkedin.com/in/nazmus-sakib-sheam" target="_blank">Connect with me on LinkedIn</a> <br />
+  👀 <a href="https://github.com/ns-sheam" target="_blank">Follow me on GitHub</a>
+</p>
+
+<h1 align="center">🌟 Have an Awesome Day! 🚀</h1>
