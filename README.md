@@ -15,25 +15,36 @@
   <img src="https://komarev.com/ghpvc/?username=ns-sheam&label=Profile%20views&color=0e75b6&style=flat" alt="ns-sheam" /> 
 </p>
 
-## 👀 Current Overview
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=400&height=30&lines=👀+Current+Overview">
+</p>
+
 
 - 🔭 I’m currently working on **E-commerce Website**
 - 🌱 I’m currently learning **SQL**
 - 💬 Ask me about **JavaScript, React.js, Node.js, Database**
 - 👉🏼 Explore my [**portfolio**](https://nazmussakib.dev/)
 
-## 📬 Reach Me Out
-
 <p align="left">
-  <a href="mailto:123sheamfeni@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/tQspYyx/gmail.png" alt="nazmus sakib" height="40" width="35" /></a>
-<a href="https://www.facebook.com/nazmus.sheam.sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nazmus.sheam.sakib" height="40" width="30" /></a>
-  <a href="https://linkedin.com/in/nazmus-sakib-sheam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmus-sakib-sheam" height="30" width="40" /></a>
-  <a href="https://instagram.com/nazmus_sakib_sheam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmus_sakib_sheam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nazmus sakib" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📬+Reach+Me+Out">
 </p>
 
+<div align="left">
+  <p>
+    <a href="mailto:123sheamfeni@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/tQspYyx/gmail.png" alt="nazmus sakib" height="40" width="35" /></a>
+    <a href="https://www.facebook.com/nazmus.sheam.sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nazmus.sheam.sakib" height="40" width="30" /></a>
+      <a href="https://linkedin.com/in/nazmus-sakib-sheam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmus-sakib-sheam" height="30" width="40" /></a>
+  </p>
+  <p>
+    <a href="https://instagram.com/nazmus_sakib_sheam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmus_sakib_sheam" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nazmus sakib" height="30" width="40" /></a>
+  </p>
+</div>
 
-## 💻 Technologies I Know
+
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=💻+Technologies+I+Know">
+</p>
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -92,7 +103,9 @@
   </a>
 </p>
 
-## 📊 Current Stats
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📊+Current+Stats">
+</p>
 
 <div>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&disable_animations=false&title_color=bfd200&text_color=ffffff&icon_color=ffffff" alt="ns-sheam" />
@@ -103,7 +116,10 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-## 📰 Recent Blogs
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📰+Recent+Blogs">
+</p>
+
 <p align="left">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/0" alt="Recent Article 0"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/`"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/1" alt="Recent Article 1"> 
