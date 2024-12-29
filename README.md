@@ -2,7 +2,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nazmussakib.dev/)
 -->
 
-[![MasterHead](https://raw.githubusercontent.com/NS-Sheam/NS-Sheam/main/assets/images/banners/dark-banner.png)](https://nazmussakib.dev/)
+[![MasterHead](https://raw.githubusercontent.com/NS-Sheam/NS-Sheam/main/assets/images/banners/dark-banner.gif)](https://nazmussakib.dev/)
 
 <!--
 <h1 align="center">Hi 👋, <br/> I am Nazmus Sakib</h1>
