@@ -23,11 +23,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=400&height=30&lines=👀+Current+Overview">
 </p>
 
-
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **Travel Agency Website**
 - 🌱 I’m currently learning **SQL**
 - 💬 Ask me about **JavaScript, React.js, Node.js, Database**
-- 👉🏼 Explore my [**portfolio**](https://nazmussakib.dev/)
+- 👉🏼 Explore my [**PORTFOLIO**](https://nazmussakib.dev/) 
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📬+Reach+Me+Out">
