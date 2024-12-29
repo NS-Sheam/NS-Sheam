@@ -30,7 +30,7 @@
 </p>
 
 <div align="left">
-  <p>
+<!--   <p>
     <a href="mailto:123sheamfeni@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/tQspYyx/gmail.png" alt="nazmus sakib" height="40" width="35" /></a>
     <a href="https://www.facebook.com/nazmus.sheam.sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nazmus.sheam.sakib" height="40" width="30" /></a>
       <a href="https://linkedin.com/in/nazmus-sakib-sheam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmus-sakib-sheam" height="30" width="40" /></a>
@@ -38,7 +38,15 @@
   <p>
     <a href="https://instagram.com/nazmus_sakib_sheam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmus_sakib_sheam" height="30" width="40" /></a>
     <a href="https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nazmus sakib" height="30" width="40" /></a>
-  </p>
+  </p> -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmus-sakib-sheam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123sheamfeni@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nazmus.sheam.sakib)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmus_sakib_sheam)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nazmus-sakib)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw](https://medium.com/@nazmus-sakib))
+
 </div>
 
 
@@ -103,36 +111,65 @@
 </p>
 -->
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
+### Frontend Development:
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+<div align="left">
+
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+
+</div>
+
+### Backend Development:
+
+<div align="left">
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300477B.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300477B.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+</div>
 
-### Tools and Platforms
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
-### Design Tools
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+### Programming Languages:
+
+<div align="left">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+
+### Tools and Platforms:
+
+<div align="left">
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+
+### Design Tools:
+
+<div align="left">
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</div>
+
 
 
 
@@ -154,10 +191,15 @@
 </p>
 
 <p align="left">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/0" alt="Recent Article 0"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/`"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/1" alt="Recent Article 1"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/2" alt="Recent Article 2"> 
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/6" alt="Recent Article 6"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/7" alt="Recent Article 7"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/8" alt="Recent Article 8"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/9" alt="Recent Article 9"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nazmus-sakib/5" alt="Recent Article 5"> 
+    
 </p>
+
 
 ![snake gif](https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg)
 <h1 align="center">
@@ -169,9 +211,10 @@
   Let's connect and grow together!
 </p>
 
-<p align="center">
-  💼 <a href="https://linkedin.com/in/nazmus-sakib-sheam" target="_blank">Connect with me on LinkedIn</a> <br />
-  👀 <a href="https://github.com/ns-sheam" target="_blank">Follow me on GitHub</a>
-</p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmus-sakib-sheam)
+  [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ns-sheam)
+</div>
 
 <h1 align="center">🌟 Have an Awesome Day! 🚀</h1>
