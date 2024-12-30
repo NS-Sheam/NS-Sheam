@@ -16,7 +16,7 @@
 <!--
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 -->
-<a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="270" align="right" alt="Nazmus Sakib's Dev Card"/></a>
+<a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="250" height="300" align="right" alt="Nazmus Sakib's Dev Card"/></a>
 
 
 
@@ -37,6 +37,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📬+Reach+Me+Out">
 </p>
 
+<div align="left">
 
 <!--   <p>
     <a href="mailto:123sheamfeni@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/tQspYyx/gmail.png" alt="nazmus sakib" height="40" width="35" /></a>
@@ -56,7 +57,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw](https://medium.com/@nazmus-sakib))
 
 
-
+</div>
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=💻+Technologies+I+Know">
