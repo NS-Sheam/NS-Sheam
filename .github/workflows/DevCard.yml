@@ -12,6 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Clear cache
+        run: rm -rf devcard.png
       - name: devcard
         uses: dailydotdev/action-devcard@3.0.0
         with:
