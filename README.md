@@ -16,7 +16,7 @@
 <!--
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 -->
-<a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="250" height="300" align="right" alt="Nazmus Sakib's Dev Card"/></a>
+<a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="250" align="right" alt="Nazmus Sakib's Dev Card"/></a>
 
 
 
