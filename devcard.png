@@ -1,1 +1,1 @@
-{"message":"Route GET:/devcards/v2/src=%22https://api.daily.dev/devcards/v2/xGI2cJImApkvKbeXwwnwc.png?type=wide&r=9oo%22%20width=%22652%22%20alt=%22Nazmus%20Sakib%27s%20Dev%20Card%22.png?r=1735539637004&ref=action not found","error":"Not Found","statusCode":404}
+{"message":"Route GET:/devcards/v2/https://api.daily.dev/devcards/v2/xGI2cJImApkvKbeXwwnwc.png?type=wide&r=9oo%22%20width=%22652%22%20alt=%22Nazmus%20Sakib%27s%20Dev%20Card.png?r=1735539803292&ref=action not found","error":"Not Found","statusCode":404}
