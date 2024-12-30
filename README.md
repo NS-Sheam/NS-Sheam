@@ -37,7 +37,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📬+Reach+Me+Out">
 </p>
 
-<div align="left">
+
 <!--   <p>
     <a href="mailto:123sheamfeni@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/tQspYyx/gmail.png" alt="nazmus sakib" height="40" width="35" /></a>
     <a href="https://www.facebook.com/nazmus.sheam.sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nazmus.sheam.sakib" height="40" width="30" /></a>
@@ -55,7 +55,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nazmus-sakib)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw](https://medium.com/@nazmus-sakib))
 
-</div>
+
 
 
 <p align="left">
