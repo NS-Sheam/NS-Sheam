@@ -16,8 +16,9 @@
 <!--
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 -->
+<a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="270" align="right" alt="Nazmus Sakib's Dev Card"/></a>
 
-<a  align="right" href="https://app.daily.dev/nazmus_sakib"><img src="https://api.daily.dev/devcards/v2/xGI2cJImApkvKbeXwwnwc.png?type=wide&r=9oo" align="right" width="400" alt="Nazmus Sakib's Dev Card"/></a>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ns-sheam&label=Profile%20views&color=0e75b6&style=flat" alt="ns-sheam" /> 
