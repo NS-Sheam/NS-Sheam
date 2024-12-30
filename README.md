@@ -16,7 +16,6 @@
 <!--
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 -->
-<a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="200" align="right" alt="Nazmus Sakib's Dev Card"/></a>
 
 
 
@@ -186,14 +185,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📊+Current+Stats">
 </p>
 
-<div>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&disable_animations=false&title_color=bfd200&text_color=ffffff&icon_color=ffffff" alt="ns-sheam" />
-  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&rank_icon=github&disable_animations=false&title_color=bfd200&text_color=ffffff&border_radius=12.5&icon_color=ffffff&ring_color=bfd200" alt="ns-sheam" />
+<div align="center">
+  <img width="700px" src="https://github-readme-stats.vercel.app/api?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&rank_icon=github&disable_animations=false&title_color=bfd200&text_color=ffffff&border_radius=12.5&icon_color=ffffff&ring_color=bfd200" alt="ns-sheam" />
+<br/>
+<br/>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&disable_animations=false&title_color=bfd200&text_color=ffffff&icon_color=ffffff" alt="ns-sheam" />
+  <a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="250" alt="Nazmus Sakib's Dev Card"/></a>
+  <br/>
+  <br/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </div>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+
+
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=700&height=30&lines=📰+Recent+Blogs">
