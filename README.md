@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on **Travel Agency Website**
 - 🌱 I’m currently learning **SQL**
-- 💬 Ask me about **JavaScript, React.js, Node.js, Database**
+- 💬 Ask me about **JavaScript, Next.js, React.js, Node.js, Database**
 - 👉🏼 Explore my [**PORTFOLIO**](https://nazmussakib.dev/) 
 
 <p align="left">
