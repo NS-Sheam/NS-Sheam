@@ -28,7 +28,7 @@
 </p>
 
 - 🔭 I’m currently working on **Travel Agency Website**
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **DEVOPS**
 - 💬 Ask me about **JavaScript, Next.js, React.js, Node.js, Database**
 - 👉🏼 Explore my [**PORTFOLIO**](https://nazmussakib.dev/) 
 </br>
