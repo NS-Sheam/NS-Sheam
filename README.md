@@ -224,7 +224,7 @@
 </h1>
 
 <p align="center">
-  If you enjoyed exploring my GitHub, don't forget to ⭐️ my repositories.<br />
+  If you enjoyed exploring my GitHub, don't forget to ⭐️ my repositories...<br />
   Let's connect and grow together!
 </p>
 
