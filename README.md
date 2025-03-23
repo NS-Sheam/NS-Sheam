@@ -27,7 +27,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&left=true&vCenter=true&width=400&height=30&lines=👀+Current+Overview">
 </p>
 
-- 🔭 I’m currently working on **Travel Agency Website**
+- 🔭 I’m currently working as a **Web Instructor** in **Programming Hero**
 - 🌱 I’m currently learning **DEVOPS**
 - 💬 Ask me about **JavaScript, Next.js, React.js, Node.js, Database**
 - 👉🏼 Explore my [**PORTFOLIO**](https://nazmussakib.dev/) 
