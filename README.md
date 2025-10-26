@@ -10,9 +10,9 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Bonjour!+👋;Bienvenue+to+my+GitHub!;I'm+Nazmus+Sakib!;A+Web+Developer!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Bonjour!+👋;Welcome+to+my+GitHub!;I'm+Nazmus+Sakib!;A+Web+Developer!">
 </h1>
-
+<!-- Bienvenue -->
 <!--
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 -->
