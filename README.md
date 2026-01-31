@@ -197,7 +197,7 @@
   <a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="250" alt="Nazmus Sakib's Dev Card"/></a>
   <br/>
   <br/>
-  <img width="60%" src="https://streak-stats.demolab.com/?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0F&v=3" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=NS-Sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0F&v=4" />
 </div>
 
 
