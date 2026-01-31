@@ -201,10 +201,9 @@
 <!-- <img width="60%" src="https://streak-stats.demolab.com/?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0F&v=1" />
 -->
 </div>
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&v=4&t=20260131)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns-sheam&theme=one-dark-pro&ring=EB5454&background=0D1117&stroke=0D1117)](https://git.io/streak-stats)
 
 </div>
 
