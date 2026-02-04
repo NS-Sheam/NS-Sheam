@@ -190,10 +190,7 @@
 </p>
 
 <div align="center">
-  <img width="700px" src="https://github-readme-stats.vercel.app/api?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&rank_icon=github&disable_animations=false&title_color=bfd200&text_color=ffffff&border_radius=12.5&icon_color=ffffff&ring_color=bfd200" alt="ns-sheam" />
 <br/>
-<br/>
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ns-sheam&show_icons=true&locale=en&theme=chartreuse-dark&disable_animations=false&title_color=bfd200&text_color=ffffff&icon_color=ffffff" alt="ns-sheam" />
   <a href="https://app.daily.dev/nazmus_sakib"><img src="./devcard.png?type=wide&r=3zf" width="250" alt="Nazmus Sakib's Dev Card"/></a>
   <br/>
   <br/>
@@ -203,8 +200,7 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ns-sheam&theme=one-dark-pro&ring=EB5454&background=0D1117&stroke=0D1117)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-orpin-five.vercel.app?user=ns-sheam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0F&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
