@@ -5,7 +5,7 @@
 [![MasterHead](https://raw.githubusercontent.com/NS-Sheam/NS-Sheam/main/assets/images/banners/dark-banner.gif)](https://nazmussakib.dev/)
 
 <!--
-<h1 align="center">Bonjour 👋, <br/> I am Nazmus Sakib</h1>
+<h1 align="center">Hi 👋, <br/> I am Nazmus Sakib</h1>
 <h3 align="center">Full Stack Web Developer from Bangladesh</h3>
 -->
 
