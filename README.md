@@ -218,6 +218,16 @@
     
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=30&lines=🏆+GitHub+Trophies">
+</p>
+
+<div align="center">
+  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NS-Sheam&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4)](https://github.com/NS-Sheam/github-profile-trophy)
+
+</div>
 
 ![snake gif](https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg)
 <h1 align="center">
