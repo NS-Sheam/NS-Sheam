@@ -197,7 +197,7 @@ Sharing engineering knowledge, patterns, and lessons.
 
 <div align="center">
 
-[![Nazmus Sakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ns-sheam&bg_color=0D1117&color=00F5FF&line=FF1CF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nazmus Sakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ns-sheam&bg_color=0D1117&color=00F5FF&line=FF1CF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ns-sheam/github-readme-activity-graph)
 
 </div>
 
