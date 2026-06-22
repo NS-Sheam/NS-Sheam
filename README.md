@@ -35,7 +35,7 @@ const nazmusSakib = {
   },
 
   currentFocus : ["DevOps", "CI/CD", "SaaS Architecture"],
-  teaching     : ["MERN Stack", "Aggregation Pipelines", "API Design"],
+  teaching     : ["Full Stack", "Aggregation Pipelines", "API Design"],
   openTo       : ["Collaborations", "Open Source", "Freelance Projects"],
   motto        : "Build it. Break it. Teach it. Ship it. 🚢",
 };
