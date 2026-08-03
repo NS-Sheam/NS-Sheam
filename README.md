@@ -21,7 +21,7 @@
 ### `whoami`
 
 ```ts
-const nazmusSakib = {
+const NazmusSakib = {
   title    : "Full Stack Developer & Web Instructor",
   company  : "Programming Hero 🏫",
   education: "B.Sc. CSE — Green University of Bangladesh",
