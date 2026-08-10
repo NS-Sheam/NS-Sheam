@@ -22,7 +22,7 @@
 
 ```ts
 const NazmusSakib = {
-  title    : "Full Stack Developer & Web Instructor",
+  title    : "Full Stack Developer & Senior Web Instructor",
   company  : "Programming Hero 🏫",
   education: "B.Sc. CSE — Green University of Bangladesh",
   location : "Dhaka, Bangladesh 🇧🇩",
